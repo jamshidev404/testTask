@@ -1,0 +1,29 @@
+[
+  {
+    "firstName": "Begzod",
+    "lastName": "Hoji",
+    "email": "begi@gmail.com",
+    "phone": "+998987654321",
+    "password": "2222",
+    "address": "Tokio, Yaponiya",
+    "id": 1
+  },
+  {
+    "firstName": "Doston",
+    "lastName": "Hamdamov",
+    "email": "hamdam@gmail.com",
+    "phone": "+9989876685599",
+    "password": "3333",
+    "address": "Moscow, Russia",
+    "id": 2
+  },
+  {
+    "firstName": "Davron",
+    "lastName": "Alomov",
+    "email": "alomov@gmail.com",
+    "phone": "+9989893332557",
+    "password": "4444",
+    "address": "Kokand, Fergana",
+    "id": 3
+  }
+]
